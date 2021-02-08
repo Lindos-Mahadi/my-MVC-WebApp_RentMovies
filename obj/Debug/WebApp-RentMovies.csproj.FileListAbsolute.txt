@@ -101,7 +101,6 @@ F:\ASPdotNET\WebApp-RentMovies\bin\Microsoft.Owin.Security.Twitter.xml
 F:\ASPdotNET\WebApp-RentMovies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\ASPdotNET\WebApp-RentMovies\bin\Microsoft.Owin.Security.OAuth.xml
 F:\ASPdotNET\WebApp-RentMovies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\ASPdotNET\WebApp-RentMovies\obj\Debug\WebApp-RentMovies.csprojAssemblyReference.cache
 F:\ASPdotNET\WebApp-RentMovies\obj\Debug\WebApp-RentMovies.csproj.CoreCompileInputs.cache
 F:\ASPdotNET\WebApp-RentMovies\obj\Debug\WebApp-RentMovies.csproj.CopyComplete
 F:\ASPdotNET\WebApp-RentMovies\obj\Debug\WebApp-RentMovies.dll
